@@ -6,5 +6,7 @@ Browser Based: Simple and easy to use.
 Requirements
 PHP 7+
 Usage
-Clone the repository:
+1. Clone the repository:
 git clone https://github.com/sandeeptiwari626/Tic-Tac-Toe.git
+
+2. Copy Tic Tac Toe folder into your server and run it on your browser.
